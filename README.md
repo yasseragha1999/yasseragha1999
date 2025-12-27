@@ -1,4 +1,3 @@
-# 💫 About Me:
 Front End Developer
 
 # 💻 Tech Stack:
